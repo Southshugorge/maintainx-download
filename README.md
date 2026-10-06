@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for MaintainX.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit MaintainX on SOFTGIT](https://softgit.pro/p/maintainx)** — the full listing.
+- 📄 **[MaintainX web page](https://southshugorge.github.io/maintainx-download/)** — standalone info page.
+- 🗂️ [More AI & Productivity software](https://softgit.pro/category/ai-productivity)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for MaintainX. Third-party software; all rights belong to the original authors.
